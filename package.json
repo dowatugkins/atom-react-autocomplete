@@ -3,7 +3,7 @@
   "version": "0.1.10",
   "description": "Autocomplete React component props without static typing",
   "repository": "https://github.com/DavidWells/atom-react-autocomplete",
-  "main": "./lib/main.js",
+  "main": "./lib/main",
   "dependencies": {
     "react-docgen": "^2.9.1",
     "yargs": "^4.7.1"
